@@ -1,0 +1,102 @@
+{
+  "AI & Emerging Technologies": [
+    "AI regulation",
+    "AI governance",
+    "AI safety",
+    "AI security",
+    "AI norms",
+    "AI transparency",
+    "brain-computer interface",
+    "humanoid robotics",
+    "AI national strategy",
+    "machine learning policy",
+    "autonomous systems",
+    "generative AI risks"
+  ],
+  "Australian tech Innovation": [
+    "Australia cybersecurity strategy",
+    "Australian tech regulation",
+    "Australian digital infrastructure",
+    "cyber capability Australia",
+    "eSafety Commission",
+    "AI industry Australia",
+    "digital resilience Australia",
+    "AUKUS technology",
+    "Australian innovation policy",
+    "tech workforce Australia",
+    "Quad technology",
+    "Quad cables",
+    "AUKUS Pillar 2"
+  ],
+  "Big Tech": [
+    "platform accountability laws",
+    "digital platform regulation",
+    "data privacy enforcement"
+  ],
+  "Cybersecurity & Threat Activity": [
+    "cybersecurity breach",
+    "cyber vulnerabilities",
+    "zero-day exploit",
+    "cyber defence infrastructure",
+    "cyber defense infrastructure",
+    "cyber resilience",
+    "supply chain security",
+    "supply chain attack",
+    "cyber hygiene",
+    "identity security",
+    "cyber risk management",
+    "vulnerability disclosure"
+  ],
+  "Digital Trade": [
+    "digital trade regulation",
+    "cross-border data",
+    "sensitive tech exports"
+  ],
+  "Geopolitics & Tech Strategy": [
+    "tech decoupling",
+    "tech bifurcation",
+    "technology transfer",
+    "national tech strategy",
+    "strategic technology alliances",
+    "emerging tech governance"
+  ],
+  "Governance & Regulation": [
+    "cyber regulation",
+    "technology governance",
+    "regulatory capacity digital",
+    "social media regulation"
+  ],
+  "Information Operations": [
+    "foreign interference elections",
+    "state-backed disinformation",
+    "AI-generated disinformation",
+    "cross-border disinformation",
+    "digital deception",
+    "platform manipulation"
+  ],
+  "Small Tech": [
+    "public interest technology",
+    "digital ecosystem integrity",
+    "algorithmic transparency"
+  ],
+  "Strategic Tech & Resilience": [
+    "submarine cable security",
+    "critical undersea infrastructure",
+    "undersea infrastructure threats",
+    "critical infrastructure protection",
+    "national resilience",
+    "communications systems",
+    "dual-use technology"
+  ],
+  "Surveillance": [
+    "tech surveillance",
+    "stalkerware",
+    "spyware",
+    "AI-enabled surveillance",
+    "sensor networks"
+  ],
+  "digitally-enabled or assisted espionage": [
+    "infrastructure sabotage",
+    "infrastructure security"
+  ]
+}
