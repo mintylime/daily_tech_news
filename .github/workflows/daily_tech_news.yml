@@ -1,0 +1,30 @@
+# ------------------- GITHUB ACTIONS WORKFLOW -------------------
+# Save the following as .github/workflows/daily_tech_news.yml in your repo:
+#
+# name: Daily Cyber & Tech News Feed
+# on:
+#   schedule:
+#     - cron: '0 20 * * *'  # 6 AM AEST (UTC+10)
+#   workflow_dispatch:
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+#       - name: Set up Python
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: '3.x'
+#       - name: Install dependencies
+#         run: |
+#           pip install beautifulsoup4 lxml
+#       - name: Generate news feed
+#         run: |
+#           python generate_news_feed.py
+#       - name: Commit and push
+#         run: |
+#           git config user.name 'github-actions'
+#           git config user.email 'actions@github.com'
+#           git add index.html
+#           git commit -m 'Daily update of news feed'
+#           git push
